@@ -1,5 +1,5 @@
   <p align="center">Hello world! 🪐</p>
-  <p align="center">You can call me <a href="https://github.com/projectskky"><i>Skky</i></a>! I'm a programming student looking to delve into <a href="https://discord.gg/JnKaVwuauK"><i>long projects</i></a>.</p>
+  <p align="center">You can call me <a href="https://github.com/projectskky"><i>Skky</i></a>! I'm a programming student looking to delve into <a href=""><i>long projects</i></a>.</p>
   <p align="center">I am improving my skills in the languages below:</p\>
   
   <div align="center" valign="top"><br>

@@ -10,10 +10,10 @@
 <summary></summary>
 
 ```java
-import org.bukkit.plugin.java.JavaPlugin;
+import org.github.com.biography.Biography
 
-public class AboutMe extends JavaPlugin {
-  String name = "arcaanoo ; Gabriel.";
-  String contact = "arcaanoo#0001"; 
+public class AboutMe extends Biography {
+  String name = "arcaanoo.";
+  String contact = "arcaanoo@zarpium.net"; 
 }
 ```

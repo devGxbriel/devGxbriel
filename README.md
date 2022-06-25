@@ -20,10 +20,6 @@
 	</a>
 </p>
 
-### ▸ Projects Time
-
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=arcaanoo&theme=synthwave&hide_title=true&show_icons=true&hide=gitignore+file)
-
 ### ▸ Contributions
 
 ![Contributions](https://github-readme-stats.vercel.app/api?username=arcaanoo&theme=synthwave&show_icons=true&hide_title=true&count_private=true)

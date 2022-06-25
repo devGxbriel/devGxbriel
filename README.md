@@ -16,7 +16,7 @@
   <p align="center">
  <a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=sqlite" />
-	        <img src="https://skillicons.dev/icons?i=jetbrains" />
+	        <img src="https://skillicons.dev/icons?i=brains" />
 	</a>
 </p>
 

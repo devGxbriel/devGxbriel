@@ -2,21 +2,14 @@
   <p align="center">
  <a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=java" />
-	        <img src="https://skillicons.dev/icons?i=lua" />
+	        <img src="https://skillicons.dev/icons?i=html" />
 	</a>
 </p>
 
   <p align="center">
  <a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=html" />
+		<img src="https://skillicons.dev/icons?i=mysql" />
 	        <img src="https://skillicons.dev/icons?i=mongodb" />
-	</a>
-</p>
-
-  <p align="center">
- <a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=sqlite" />
-	        <img src="https://skillicons.dev/icons?i=jet" />
 	</a>
 </p>
 

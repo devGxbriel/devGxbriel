@@ -2,7 +2,7 @@
   <p align="center">
  <a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=java" />
-	        <img src="https://skillicons.dev/icons?i=html" />
+	        <img src="https://skillicons.dev/icons?i=lua" />
 	</a>
 </p>
 
@@ -16,7 +16,7 @@
   <p align="center">
  <a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=sqlite" />
-	        <img src="https://skillicons.dev/icons?i=brains" />
+	        <img src="https://skillicons.dev/icons?i=jet" />
 	</a>
 </p>
 

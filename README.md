@@ -8,19 +8,22 @@
 
   <p align="center">
  <a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=mysql" />
+		<img src="https://skillicons.dev/icons?i=html" />
 	        <img src="https://skillicons.dev/icons?i=mongodb" />
 	</a>
 </p>
 
   <p align="center">
  <a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=html" />
-	        <img src="https://skillicons.dev/icons?i=php" />
+		<img src="https://skillicons.dev/icons?i=sqlite" />
+	        <img src="https://skillicons.dev/icons?i=intellij" />
 	</a>
 </p>
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/712820687315927081?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+### ▸ Projects Time
+
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=arcaanoo&theme=synthwave&hide_title=true&show_icons=true&hide=gitignore+file)
+
+### ▸ Contributions
+
+![Contributions](https://github-readme-stats.vercel.app/api?username=arcaanoo&theme=synthwave&show_icons=true&hide_title=true&count_private=true)

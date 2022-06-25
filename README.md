@@ -6,6 +6,13 @@
 	</a>
 </p>
 
+  <p align="center">
+ <a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=mongodb" />
+	        <img src="https://skillicons.dev/icons?i=html" />
+	</a>
+</p>
+
 <h4 align="center">
 <details>
 <summary></summary>

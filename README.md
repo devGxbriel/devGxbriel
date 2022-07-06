@@ -1,4 +1,5 @@
 ### Aooba, bão? Arcaanoo aqui! 🚀
+## Um mero desenvolvedor em busca de conhecimento!
 
 <div align="center">
   <a href="https://github.com/arcaanoo">
@@ -8,13 +9,8 @@
   
   <div style="display: inline_block"><br>
    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" />
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50"/>
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50" />
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50" />
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50" />
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50" />
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50" />
-    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47olr9cd5tdwtl39lu0uw0crdse6tbguu14c9s3dhm&rid=200w.webp&ct=s)" width="50" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="50" />
     <img align="right" alt="Vicente-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/origin/4d/4d01b77bbaa8702885051127445cf662_w200.gif">
   </div>
   
@@ -23,10 +19,10 @@
   ### 💬 Interaja comigo: 
   
   <div>
-    <a href="https://www.instagram.com/vicente.carlos04/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/pDxbmrzNaJ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:vicentecarloshehe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/vicente-carlos-silva-6443941b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.twitter.com/arcaanox/" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1657133618~hmac=6e3dacb57065c4145e4af0d004a363ca" target="_blank"></a>
+   <a href="https://discord.com/channels/@me/712820687315927081" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:arcaanoo@zarpium.net"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://discord.gg/wppuv3EmdX" target="_blank"><img src="https://media.discordapp.net/attachments/979460820767506504/983430983057559572/IMG_8090.png" target="_blank"></a> 
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"> 
   </div>
   

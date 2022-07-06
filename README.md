@@ -19,7 +19,6 @@
   ##
   <div align="center">
   ### 💬 Interaja comigo: 
-      </div>
   
     <div align="center">
   <div>

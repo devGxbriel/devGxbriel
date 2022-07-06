@@ -19,10 +19,10 @@
   ### 💬 Interaja comigo: 
   
   <div>
-    <a href="https://www.twitter.com/arcaanox/" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1657133618~hmac=6e3dacb57065c4145e4af0d004a363ca" target="_blank"></a>
-   <a href="https://discord.com/channels/@me/712820687315927081" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:arcaanoo@zarpium.net"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://discord.gg/wppuv3EmdX" target="_blank"><img src="https://media.discordapp.net/attachments/979460820767506504/983430983057559572/IMG_8090.png" target="_blank"></a> 
+    <a href="https://www.twitter.com/arcaanox/" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1657133618~hmac=6e3dacb57065c4145e4af0d004a363ca" target="_blank" width="50"></a>
+   <a href="https://discord.com/channels/@me/712820687315927081" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" width="50"></a> 
+    <a href = "mailto:arcaanoo@zarpium.net"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="50"></a>
+    <a href="https://discord.gg/wppuv3EmdX" target="_blank"><img src="https://media.discordapp.net/attachments/979460820767506504/983430983057559572/IMG_8090.png" target="_blank" width="50"></a> 
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"> 
   </div>
   

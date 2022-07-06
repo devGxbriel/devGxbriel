@@ -17,7 +17,7 @@
             </div>
   
   ##
-  ###                                  💬 Interaja comigo: 
+  ###
   
   <div>
       <div align="center">

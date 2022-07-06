@@ -7,12 +7,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcaanoo&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
   
+  <div align="center">
   <div style="display: inline_block"><br>
    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" />
     <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="50"/>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="50" />
     <img align="right" alt="Vicente-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/origin/4d/4d01b77bbaa8702885051127445cf662_w200.gif">
   </div>
+    </div>
   
   ##
   

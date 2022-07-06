@@ -14,13 +14,13 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="50" />
     <img align="right" alt="Vicente-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/origin/4d/4d01b77bbaa8702885051127445cf662_w200.gif">
   </div>
-    </div>
+            </div>
   
   ##
   ###                                  💬 Interaja comigo: 
   
-    <div align="center">
   <div>
+      <div align="center">
     <a href="https://www.twitter.com/arcaanox/" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1657133618~hmac=6e3dacb57065c4145e4af0d004a363ca" target="_blank" width="80"></a>
    <a href="https://discord.com/channels/@me/712820687315927081" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1657133941~hmac=83d8eb38ba7256a7b5a85b1b0de8d860" target="_blank" width="80"></a> 
     <a href = "mailto:arcaanoo@zarpium.net"><img src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178158.png?token=exp=1657133982~hmac=ba8f01ec63902da735bf323274faefe2" target="_blank" width="80"></a>

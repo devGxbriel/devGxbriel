@@ -2,9 +2,9 @@
 ## Um mero desenvolvedor em busca de conhecimento!
 
 <div align="center">
-  <a href="https://github.com/arcaanoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arcaanoo&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcaanoo&layout=compact&langs_count=7&theme=maroongold"/>
+  <a href="https://github.com/devGxbriel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devGxbriel&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGxbriel&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
   
   <div align="center">
